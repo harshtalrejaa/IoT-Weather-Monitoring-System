@@ -1,3 +1,5 @@
+#project by ishan somani and harshal talreja
+
 import Adafruit_DHT
 import time
 # Set sensor type and GPIO pin
